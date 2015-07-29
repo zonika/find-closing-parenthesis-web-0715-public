@@ -1,8 +1,4 @@
----
-tags: algorithms, todo
-languages: ruby
-resources: 0
----
+
 
 ## Find the Closing Parenthesis
 
